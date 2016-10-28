@@ -11,7 +11,6 @@ ApktoolInstall
 
 ```shell
 > python3 install.py
-
 ```
 
 ### Linux
